@@ -2,7 +2,7 @@ main()
 {
 add();
 {
-  printf("hello world
+  printf("enter the usn number");
 sub();
 mul();
 div();
